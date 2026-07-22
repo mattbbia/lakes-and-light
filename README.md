@@ -2,8 +2,8 @@
 
 A light Omarchy theme inspired by the landscape paintings of Joseph Wright.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/joseph-wright-light?style=flat-square)
-![License](https://img.shields.io/github/license/mattbbia/joseph-wright-light?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/lakes-and-light?style=flat-square)
+![License](https://img.shields.io/github/license/mattbbia/lakes-and-light?style=flat-square)
 
 ![Theme preview picture](preview.png)
 
@@ -78,13 +78,13 @@ List the applications, modules, or features included in the project.
 
 Clone or install the project:
 ```bash
-omarchy-theme-install https://github.com/mattbbia/joseph-wright-light.git
+omarchy-theme-install https://github.com/mattbbia/lakes-and-light.git
 ```
 ### OR
 
 1. Open the Omarchy menu (**Super + Alt + Space**).
 2. Go to **Install > Style > Theme**.
-3. Paste this repo URL: `https://github.com/mattbbia/joseph-wright-light.git`
+3. Paste this repo URL: `https://github.com/mattbbia/lakes-and-light.git`
 4. Hit Enter.
 
 ## Contributing
