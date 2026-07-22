@@ -1,4 +1,4 @@
-# Project Name
+# Lakes & Light
 
 A light Omarchy theme inspired by the landscape paintings of Joseph Wright.
 
@@ -9,10 +9,7 @@ A light Omarchy theme inspired by the landscape paintings of Joseph Wright.
 
 ## Inspiration
 
-Provide a brief explanation of what inspired this project.
-
-If the project is based on a person, artwork, design language, technology, or concept, explain why it was chosen and what characteristics influenced the final result.
-
+Joseph Wright of Derby (1734-1797) was one of Britain's most celebrated landscape painters. He was known for his use of light and his ability to capture the atmosphere of the natural world. The selected paintings showcase Wright's fascination with landscapes and light. The color palette is subtle and calming aesthetic for a clean desktop environment.
 ## Gallery
 
 This project includes 6 carefully selected paintings:
