@@ -4,7 +4,7 @@ A light Omarchy theme inspired by the landscape paintings of Joseph Wright.
 
 ![GitHub stars](https://img.shields.io/github/stars/mattbbia/lakes-and-light?style=flat-square)
 ![License](https://img.shields.io/github/license/mattbbia/lakes-and-light?style=flat-square)
-![Hits](https://hits.sh/github.com/mattbbia/lakes-and-light.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
+![Hits](https://hits.sh/github.com/mattbbia/lakes-and-light.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square) ![Mode](https://img.shields.io/badge/mode-light-fbbf24?style=flat-square)
 
 ![Theme preview picture](preview.png)
 
