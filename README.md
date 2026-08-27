@@ -12,7 +12,7 @@ A light Omarchy theme inspired by the landscape paintings of Joseph Wright.
 
 ## Inspiration
 
-Joseph Wright of Derby (1734-1797) was one of Britain's most celebrated landscape painters. He was known for his use of light and his ability to capture the atmosphere of the natural world. The selected paintings showcase Wright's fascination with landscapes and light. The color palette is subtle and calming aesthetic for a clean desktop environment.
+Joseph Wright of Derby (1734–1797) was one of Britain's most celebrated landscape painters. He was known for his use of light and his ability to capture the atmosphere of the natural world. The selected paintings showcase Wright's fascination with landscapes and light. The color palette is subtle and calming aesthetic for a clean desktop environment.
 ## Gallery
 
 This project includes 6 carefully selected paintings:
